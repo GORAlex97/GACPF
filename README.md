@@ -9,11 +9,10 @@ This project is a PHP class containing many useful functions that make it easy t
 * Added functions to multiply and divide
 * Bug fixes
 
-<br>
 ### Version 1.0:
 * Added plus and minus functions
 * Added function that displays information about the script
-<br><br><br>
+
 
 You can also participate in our project!
 Send your functions and proposals to [address] (mailto: 5267720@gmail.com).
