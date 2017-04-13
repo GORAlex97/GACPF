@@ -1,0 +1,8 @@
+Version 1.1 (2017/04/13)
+Random text function added;
+Added functions to multiply and divide;
+Bug fixes.
+
+Version 1.0 (2017/04/12)
+Added plus and minus functions;
+Added function that displays information about the script;
