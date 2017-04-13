@@ -20,7 +20,8 @@ Send your functions and proposals to [address](mailto:5267720@gmail.com).
 Author project's: [GorAlex97](http://fb.com/goralex97) (fb.com/goralex97)
 
 <br>
-
+<hr>
 ```text
 All Rights Reserved 2017 &copy; GORAlex Comp
 ```
+<hr>
