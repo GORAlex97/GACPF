@@ -1,22 +1,29 @@
 # Welcome to the Github repository project "GACPF"!
-
-This project is a PHP class containing many useful functions that make it easy to work with the PHP language.
+###### This project is a PHP class containing many useful functions that make it easy to work with the PHP language.
 
 ## Project Versions:
+```markdown
+ ***Version 1.1:***
+ - Random text function added
+ - Added functions to multiply and divide
+ - Bug fixes
 
-### Version 1.1:
-* Random text function added
-* Added functions to multiply and divide
-* Bug fixes
-
-### Version 1.0:
-* Added plus and minus functions
-* Added function that displays information about the script
+***Version 1.0:***
+- Added plus and minus functions
+- Added function that displays information about the script
+```
 
 <br><br>
 You can also participate in our project!
-Send your functions and proposals to [address] (mailto: 5267720@gmail.com).
+Send your functions and proposals to [address](mailto:5267720@gmail.com).
 
 Author project's: [GorAlex97](http://fb.com/goralex97) (fb.com/goralex97)
-<hr><br>
+
+<br><br>
+<hr>
+
+```text
 All Rights Reserved 2017 &copy; GORAlex Comp
+```
+
+<hr>
