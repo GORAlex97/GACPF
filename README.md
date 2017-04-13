@@ -5,9 +5,9 @@ This project is a PHP class containing many useful functions that make it easy t
 ## Project Versions:
 
 ### Version 1.1:
-* Random text function added
-* Added functions to multiply and divide
-* Bug fixes
+   * Random text function added
+   * Added functions to multiply and divide
+   * Bug fixes
 
 ### Version 1.0:
 * Added plus and minus functions
