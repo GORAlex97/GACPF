@@ -13,8 +13,7 @@ This project is a PHP class containing many useful functions that make it easy t
 * Added plus and minus functions
 * Added function that displays information about the script
 
-
-
+<br><br>
 You can also participate in our project!
 Send your functions and proposals to [address] (mailto: 5267720@gmail.com).
 
